@@ -73,7 +73,7 @@ La aplicación automatiza el cálculo de costos, insumos y precios de venta, per
 
 El sistema fue desarrollado como producto real, utilizado como base para presupuestos comerciales y preparado para su distribución mediante instaladores.
 
-> 🎥 **Demo en video:** https://youtu.be/WaippmQKeiU
+🎥 **Demo en video:** https://youtu.be/WaippmQKeiU
 
 👤 Autor
 
