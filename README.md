@@ -1,4 +1,4 @@
-🍰🍹 App de Presupuestos para Pastelería y Barra de Tragos
+🍰🍹 App de Presupuestos Desktop para Pastelería y Barra de Tragos
 
 📌 Descripción
 
@@ -37,10 +37,10 @@ La aplicación automatiza el cálculo de costos, insumos y precios de venta, per
 
 - Presupuestos para clientes en PDF
 - Informes internos con:
-- Costos de ingredientes
-- Insumos utilizados
-- Ganancia estimada
--Organización automática de archivos
+  - Costos de ingredientes
+  - Insumos utilizados
+  - Ganancia estimada
+- Organización automática de archivos
 
 🛠️ Tecnologías Utilizadas
 
@@ -71,7 +71,7 @@ La aplicación automatiza el cálculo de costos, insumos y precios de venta, per
 
 ✅ Aplicación completa y funcional
 
-El sistema fue desarrollado como producto real, utilizado como base para presupuestos comerciales y preparado para su distribución mediante instaladores.
+El sistema fue desarrollado como producto real, utilizado como base para presupuestos comerciales y preparado para su distribución mediante instaladores para clientes finales.
 
 🎥 **Demo en video:** https://youtu.be/WaippmQKeiU
 
@@ -85,4 +85,4 @@ Python Developer
 
 🚀 Proyección
 
-💡 La aplicación puede ampliarse para incorporar control de stock.
+💡 La aplicación puede ampliarse para incorporar control de stock, gestión de clientes y reportes históricos de rentabilidad.
